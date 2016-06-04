@@ -1,0 +1,3 @@
+NO_PIECE = -1
+X_PIECE = 0
+O_PIECE = 1

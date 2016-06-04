@@ -1,0 +1,6 @@
+*pyc
+*h5
+*json
+tmp/
+training_data/
+*.out
